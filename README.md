@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Publish on vercel at 
 
-`https://angular-password-generator-blue.vercel.app/`
+[https://angular-password-generator-blue.vercel.app/](https://angular-password-generator-blue.vercel.app/)
 
 ## Code scaffolding
 
